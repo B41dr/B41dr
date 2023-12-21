@@ -1,5 +1,5 @@
 <div>
-  <div ah6gn="center">
+  <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/en/f/fb/Sun_Yat-sen_University_Logo.png"/>
    <h4>🫣Oops, You find me! You can call me <a href="https://github.com/123Chaos">Ming</a></h4>
    <div>
@@ -10,6 +10,25 @@
      <h6>👶🏻Sex: Male(or boy)</h6>
      <h6>🎂Birthday: 01.12.17</h6>
      <h6>👾Company worked: KuaiShou(Now and Sooner) Meituan(intern) CEC(intern) Tencent(intern)</h6>
+     <h6>🤪Programming language: 
+     <img src="https://img.shields.io/badge/javascript-%23FF4858">
+     <img src="https://img.shields.io/badge/java-%231B7F79">
+     <img src="https://img.shields.io/badge/python-%236554DE">
+     <img src="https://img.shields.io/badge/cpp-%2300CCC0">
+     </h6>
+     <h6>🥷🏻Framework: 
+     <img src="https://img.shields.io/badge/Vue-%2372F2EB">
+     <img src="https://img.shields.io/badge/React-%233FE8DF">
+     <img src="https://img.shields.io/badge/NestJS-%233FE8A5">
+     <img src="https://img.shields.io/badge/ReactNative-%233FE8A5">
+     <img src="https://img.shields.io/badge/springboot-%2330DB9E">
+     </h6>
+     <h6>🦹🏻‍♂️Higher level skills: 
+     <img src="https://img.shields.io/badge/webgl-%2395E83F">
+     <img src="https://img.shields.io/badge/webrtc-%23951111">
+     <img src="https://img.shields.io/badge/mysql-%23549BDE">
+     <img src="https://img.shields.io/badge/mongodb-%235470DE">
+     </h6>
      <h6>🐣Favorite Three: ff7, Cowboy Bebop, The Last Of Us</h6>
   </div>
   <div>
