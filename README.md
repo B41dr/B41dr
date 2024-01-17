@@ -9,7 +9,7 @@
      <h6>🎃Major: Computer Science and Technology</h6>
      <h6>👶🏻Sex: Male(or boy)</h6>
      <h6>🎂Birthday: 01.12.17</h6>
-     <h6>👾Company worked: KuaiShou(Now and Sooner) Meituan(intern) CEC(intern) Tencent(intern)</h6>
+     <h6>👾Company worked: KuaiShou(Now and Sooner) Meituan(intern) CEC(intern)</h6>
      <h6>🤪Programming language: 
      <img src="https://img.shields.io/badge/javascript-%23FF4858">
      <img src="https://img.shields.io/badge/java-%231B7F79">
