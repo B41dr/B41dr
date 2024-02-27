@@ -8,23 +8,19 @@
      <h6>🎃Major: Computer Science</h6>
      <h6>👶🏻Sex: Man</h6>
      <h6>👾Company worked: KuaiShou(Now and Sooner) Meituan(intern) CEC(intern)</h6>
-     <h6>🤪Programming language: 
+     <h6>🤪Familiar with: 
      <img src="https://img.shields.io/badge/Typescript-blue">
      <img src="https://img.shields.io/badge/Java-%231B7F79">
      <img src="https://img.shields.io/badge/Python-%236554DE">
      <img src="https://img.shields.io/badge/C++-%2300CCC0">
      <img src="https://img.shields.io/badge/Rust-brown">
      </h6>
-     <h6>🥷🏻Framework: 
+     <h6>🥷🏻Also: 
      <img src="https://img.shields.io/badge/Vue-%2372F2EB">
      <img src="https://img.shields.io/badge/React-%233FE8DF">
      <img src="https://img.shields.io/badge/NestJS-%233FE8A5">
      <img src="https://img.shields.io/badge/ReactNative-%233FE8A5">
      <img src="https://img.shields.io/badge/Springboot-%2330DB9E">
-     </h6>
-     <h6>🦹🏻‍♂️Skills: 
-     <img src="https://img.shields.io/badge/webgl-%2395E83F">
-     <img src="https://img.shields.io/badge/webrtc-%23951111">
      <img src="https://img.shields.io/badge/mysql-%23549BDE">
      <img src="https://img.shields.io/badge/hive-white">
      <img src="https://img.shields.io/badge/redis-red">
