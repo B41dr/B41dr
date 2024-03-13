@@ -7,7 +7,7 @@
      <h6>📚Education: Sun Yat-sen University(Undergraduate)</h6>
      <h6>🎃Major: Computer Science</h6>
      <h6>👶🏻Gender: Man</h6>
-     <h6>👾Company worked: KuaiShou(Now and Sooner) Meituan(intern) CEC(intern)</h6>
+     <h6>👾Company worked: KuaiShou(now) Meituan(intern) CEC(intern)</h6>
      <h6>Familiar with:
      <img src="https://img.shields.io/badge/Typescript-blue">
      <img src="https://img.shields.io/badge/Java-%231B7F79">
