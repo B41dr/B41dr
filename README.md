@@ -3,7 +3,7 @@
    <h4>🫣Oops, You find me! You can call me <a href="https://github.com/123Chaos">Ming</a></h4>
    <div>
      <h6>🧑🏻‍💻Profession: Software Engineer</h6>
-     <h6>🥳Hobby: 🎮Games, 🫠ACG, 🎥Movie</h6>
+     <h6>🥳Hobby: 🎮Games 🫠ACG 🎥Movie</h6>
      <h6>📚Education: Sun Yat-sen University(2020.9~2024.6)</h6>
      <h6>🎃Major: Computer Science</h6>
      <h6>👶🏻Gender: Man</h6>
