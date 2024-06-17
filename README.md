@@ -3,11 +3,11 @@
    <h4>🫣Oops, You find me! You can call me <a href="https://github.com/123Chaos">Ming</a></h4>
    <div>
      <h6>🧑🏻‍💻Profession: Software Engineer</h6>
-     <h6>🥳Hobby: 🎮Video games, 🫠ACG, 🎥Movie Appreciation</h6>
-     <h6>📚Education: Sun Yat-sen University(Undergraduate)</h6>
+     <h6>🥳Hobby: 🎮Games, 🫠ACG, 🎥Movie</h6>
+     <h6>📚Education: Sun Yat-sen University(2020.9~2024.6)</h6>
      <h6>🎃Major: Computer Science</h6>
      <h6>👶🏻Gender: Man</h6>
-     <h6>👾Company worked: KuaiShou(now) Meituan(intern) CEC(intern)</h6>
+     <h6>👾Trip: KuaiShou(2023.12~now) Meituan(2023.10~2023.12 as intern) CEC(2023.3~2023.7 as intern)</h6>
      <h6>Familiar with:
      <img src="https://img.shields.io/badge/Typescript-blue">
      <img src="https://img.shields.io/badge/Java-%231B7F79">
