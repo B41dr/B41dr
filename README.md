@@ -8,7 +8,7 @@
      <h6>🎃Major: Computer Science and Technology</h6>
      <h6>👶🏻Gender: Man</h6>
      <h6>👾Trip: </h6>
-     <h6>KuaiShou(2023.12~now)</h6>
+     <h6>Kuaishou(2023.12~now)</h6>
      <h6>Meituan(2023.10~2023.12 as intern)</h6>
      <h6>CEC(2023.3~2023.7 as intern)</h6>
      <h6>Familiar with:
