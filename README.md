@@ -5,7 +5,7 @@
      <h6>🧑🏻‍💻Profession: Software Engineer</h6>
      <h6>🥳Hobby: 🎮Games 🫠ACG 🎥Movie</h6>
      <h6>📚Education: Sun Yat-sen University(2020.9~2024.6)</h6>
-     <h6>🎃Major: Computer Science</h6>
+     <h6>🎃Major: Computer Science and Technology</h6>
      <h6>👶🏻Gender: Man</h6>
      <h6>👾Trip: </h6>
      <h6>KuaiShou(2023.12~now)</h6>
