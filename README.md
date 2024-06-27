@@ -10,24 +10,15 @@
      <h6>Meituan(2023.10~2023.12 as intern)</h6>
      <h6>CEC(2023.3~2023.7 as intern)</h6>
      <h6>
-     <img src="https://img.shields.io/badge/Typescript-blue">
-     <img src="https://img.shields.io/badge/Java-%231B7F79">
-     <img src="https://img.shields.io/badge/Python-%236554DE">
-     <img src="https://img.shields.io/badge/C++-%2300CCC0">
-     <img src="https://img.shields.io/badge/Rust-brown">
+     <p align="center">
+      <h4>Welcome to communicate with me: </h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vue,react,vite,nestjs,spring,java,nodejs,ts,docker,mysql,redis,mongodb" />
+      </a>
+     </p>
      </h6>
-     <h6>Also:
-     <img src="https://img.shields.io/badge/Vue-%2372F2EB">
-     <img src="https://img.shields.io/badge/React-%233FE8DF">
-     <img src="https://img.shields.io/badge/NestJS-%233FE8A5">
-     <img src="https://img.shields.io/badge/ReactNative-%233FE8A5">
-     <img src="https://img.shields.io/badge/Springboot-%2330DB9E">
-     <img src="https://img.shields.io/badge/Mysql-%23549BDE">
-     <img src="https://img.shields.io/badge/Hive-white">
-     <img src="https://img.shields.io/badge/Redis-red">
-     <img src="https://img.shields.io/badge/Mongodb-%235470DE">
-     </h6>
-     <h6>🐣Favorite Top 3: Final Fantacy 7, Cowboy Bebop, The Last Of Us</h6>
+    <h4>Favorite Top 3: </h4>
+    <p>final fantacy 7 | cowboy bebop | the last of us</p>
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123Chaos&hide_title=true&hide_border=true&text_color=000&bg_color=eee"/>
