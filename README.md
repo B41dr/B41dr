@@ -20,7 +20,4 @@
     <h4>Favorite Top 3: </h4>
     <p>final fantacy 7 | cowboy bebop | the last of us</p>
   </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123Chaos&hide_title=true&hide_border=true&text_color=000&bg_color=eee"/>
-  </div>
 </div>
