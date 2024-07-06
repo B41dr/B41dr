@@ -1,8 +1,8 @@
 <div>
   <div align="center">
    <div>
-     <h6>📚Education: Sun Yat-sen University(2020.9~2024.6)</h6>
-     <h6>🎃Major: Computer Science and Technology</h6>
+     <h6>Education: Sun Yat-sen University(2020.9~2024.6)</h6>
+     <h6>Major: Computer Science and Technology</h6>
      <h6>Kuaishou [2024.7 ~ ]</h6>
      <h6>Kuaishou [2023.12~2024.6] as intern</h6>
      <h6>Meituan [2023.10~2023.12] as intern</h6>
