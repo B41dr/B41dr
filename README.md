@@ -9,7 +9,7 @@
      <h6>CEC [2023.3~2023.7] as intern</h6>
      <h6>
      <p align="center">
-      <h4>Free to chat with: </h4>
+      <h4>Feel free to chat with: </h4>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vue,react,vite,nestjs,spring,java,nodejs,ts,docker,mysql,redis,mongodb" />
       </a>
