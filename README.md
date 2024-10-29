@@ -1,7 +1,7 @@
 <div>
   <div align="center">
    <div>
-     <h6>Now focus on low-code</h6>h6
+     <h6>Now focus on low-code</h6>
      <h6>
      <p align="center">
       <h4>Feel free to chat with: </h4>
