@@ -6,7 +6,7 @@
      <p align="center">
       <h4>Feel free to chat with: </h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vue,react,vite,nestjs,spring,java,nodejs,ts,docker,mysql,redis,mongodb" />
+        <img src="https://skillicons.dev/icons?i=java,nodejs,ts" />
       </a>
      </p>
      </h6>
