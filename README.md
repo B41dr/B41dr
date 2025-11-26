@@ -1,7 +1,7 @@
 <div>
   <div align="center">
    <div>
-     <h6>Ask me about DataLake | WebGL | FE Design Mode | RPC</h6>
+     <h6>Learning AI</h6>
      <h6>
      <p align="center">
       <h4>Feel free to chat with: </h4>
